@@ -3,7 +3,9 @@
 This project explores polarization drift in optical fibers and methods for an active compensation system with wavelength division multiplexing. The applications are to long distance quantum communication with polarization-encoded photonic qubits.
 
 ## Folder Contents
-- PHYS407_Final_Report.pdf: Summary of project progress through December of 2022. This includes the first round of single wavelength measurements and two wavelength(PMD) measurements.
+- Reports:
+  - PHYS407_Final_Report.pdf: Summary of project progress through December of 2022. This includes the first round of single wavelength measurements and two wavelength(PMD) measurements.
+  - FIO_LS Presentation.pptx: presentation given October 2022 at FIO/LS meeting in Rochester NY
 - Polarimeter: documentation for telecommunication polarimeter
   - Polarimeter_Manual.pdf: Describes method of operation, how to use and how to calibrate
   - Electronics: KiCad project files for the Teensy motherboard and photodiode transimpedance amplifier boards
