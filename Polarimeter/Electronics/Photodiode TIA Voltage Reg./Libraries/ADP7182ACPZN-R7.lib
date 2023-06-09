@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# ADP7182ACPZN-R7
+#
+DEF ADP7182ACPZN-R7 U 0 40 Y Y 1 L N
+F0 "U" -100 601 50 H V L BNN
+F1 "ADP7182ACPZN-R7" -100 -601 50 H V L BNN
+F2 "SON65P200X200X65-7N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "ANALOG DEVICES" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -400 -400 400 400 0 0 10 f
+X VOUT 1 600 300 200 L 40 40 0 0 O 
+X ADJ 2 -600 100 200 R 40 40 0 0 I 
+X EN 3 -600 0 200 R 40 40 0 0 I 
+X GND 5 600 -200 200 L 40 40 0 0 W 
+X VIN 6 -600 300 200 R 40 40 0 0 I 
+X EXP 7 600 -300 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

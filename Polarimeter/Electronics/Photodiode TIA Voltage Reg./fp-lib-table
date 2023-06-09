@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ADP7182ACPZN-R7")(type "KiCad")(uri "${KIPRJMOD}/Footprints/ADP7182ACPZN-R7")(options "")(descr ""))
+  (lib (name "DiodeSocket")(type "KiCad")(uri "/Users/devenbowman/Documents/KiCad Projects/Libraries/DiodeSocket/DiodeSocket.pretty")(options "")(descr ""))
+)

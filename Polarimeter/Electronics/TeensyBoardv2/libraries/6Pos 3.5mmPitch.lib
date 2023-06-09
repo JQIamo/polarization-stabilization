@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 6Pos3.5mmPitch
+#
+DEF 6Pos3.5mmPitch U 0 40 Y Y 1 F N
+F0 "U" -50 300 50 H V C CNN
+F1 "6Pos3.5mmPitch" 0 200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -200 50 400 -100 0 1 0 N
+X 1 1 -150 -200 100 U 50 50 1 1 I
+X 2 2 -50 -200 100 U 50 50 1 1 I
+X 3 3 50 -200 100 U 50 50 1 1 I
+X 4 4 150 -200 100 U 50 50 1 1 I
+X 5 5 250 -200 100 U 50 50 1 1 I
+X 6 6 350 -200 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
